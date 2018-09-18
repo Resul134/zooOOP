@@ -10,7 +10,9 @@ namespace zooOOP
     {
         public Kat()
         {
-            tam = true;
+            navn = "kattenavn";
+
+
         }
     }
 }
